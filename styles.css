@@ -14,7 +14,6 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
   color: white;
 }
 
@@ -59,7 +58,8 @@ body {
 }
 
 .greeting-text {
-  font-family: "RestoraBold", serif;
+  font-family: "RestoraBold";
+  /* font-family: "serif"; */
   letter-spacing: 0.5px;
   line-height: 5px;
   font-size: 44px;
