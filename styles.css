@@ -31,7 +31,6 @@ body {
   width: 100%;
   display: flex;
   justify-content: center;
-  /* background-color: hsl(10, 100%, 50%); */
 }
 
 .image-container {
@@ -39,7 +38,6 @@ body {
   height: 289px;
   width: 282px;
   position: relative;
-  /* background-color: hsl(5, 100%, 40%); */
 }
 
 .profile-image {
@@ -54,12 +52,10 @@ body {
   width: 368px;
   height: fit-content;
   position: relative;
-  /* background-color: hsl(25, 100%, 40%); */
 }
 
 .greeting-text {
   font-family: "RestoraBold";
-  /* font-family: "serif"; */
   letter-spacing: 0.5px;
   line-height: 5px;
   font-size: 44px;
@@ -98,7 +94,6 @@ body {
   width: 794px;
   margin-top: 25px;
   height: 10px;
-  /* background-color: hsl(0, 0%, 100%); */
 }
 
 .line {
@@ -135,16 +130,13 @@ body {
 .info-section {
   display: flex;
   justify-content: center;
-  /* border: 1px solid black; */
 }
 
 .column-1 {
   width: 282px;
-  /* border: 1px solid black; */
 }
 .column-2 {
   width: 368px;
-  /* border: 1px solid black; */
 }
 
 .heading {
